@@ -40,12 +40,12 @@ roles:
  - title: Foreman
    start: 2016
    end: 2019
-   employer: Patentes Talgo S.L.
+   employer: "Patentes Talgo S.L."
    description: Managing groups of electricians and onboard mechanics to maintain and operate passenger trains
  - title: Electrical Engineer
    start: 2013
    end: 2016
-   employer: Patentes Talgo S.L.
+   employer: "Patentes Talgo S.L."
    description: Electrical and electronic repair and maintenance of passenger trains
  - title: Sales Engineer
    start: 2012
