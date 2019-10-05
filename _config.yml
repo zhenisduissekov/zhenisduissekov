@@ -36,7 +36,7 @@ roles:
    start: 2019
    end: Ongoing
    employer: none yet
-   description: -
+   description: none
  - title: Foreman
    start: 2016
    end: 2019
@@ -48,8 +48,8 @@ roles:
    employer: Patentes Talgo S.L.
    description: Electrical and electronic repair and maintenance of passenger trains
  - title: Sales Engineer
-   start: mar-2012
-   end: nov-2012
+   start: 2012
+   end: 2012
    employer: Turkuaz Machinery
    description: Selling technical solutions
  - title: Communication Engineer
