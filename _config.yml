@@ -32,10 +32,10 @@ skills:
 
 #Work experience is required
 roles:
- - title: Python developper (looking for a job)
+ - title: Python developer
    start: 2019
    end: Ongoing
-   employer: none yet
+   employer: none
    description: none
  - title: Foreman
    start: 2016
@@ -52,7 +52,7 @@ roles:
    end: 2012
    employer: Turkuaz Machinery
    description: Selling technical solutions
- - title: Communication Engineer
+ - title: Comm. Engineer
    start: 2009
    end: 2011
    employer: NewSat comm.
@@ -71,7 +71,7 @@ education:
    school: King Abdullah University of Science and Technology
 
 #This section is optional (as is the image link below)
-coursera:
+courses:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
     - title: "Programming on Python"
@@ -86,15 +86,15 @@ coursera:
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
+#speakerdeck:
+#   profileurl: https://speakerdeck.com/robhinds
+#   talks:
+#    - title: Product Management for Engineers
+#      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+#      conference: API Conference, Berlin 2018
+#    - title: Agile Machine Learning - from Theory to Production
+#      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+#      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github:
