@@ -74,11 +74,11 @@ education:
 coursera:
    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
-    - title: Программирование на Python
+    - title: Programming on Python
       link: https://stepik.org/cert/222075
       optionalimage: 
       date: September, 2019
-    - title: Python: основы и применение
+    - title: Python: basics and application
       link: https://stepik.org/cert/214600
       optionalimage: 
       date: September, 2019
