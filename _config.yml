@@ -32,21 +32,21 @@ skills:
 
 #Work experience is required
 roles:
- - title: Python developer
+ - title: "Python developer"
    start: 2019
    end: Ongoing
    employer: none
    description: Studying on following web resources <a href="https://www.leetcode.com" taget="_blank">LeetCode</a>, <a href="https://www.stepik.org" taget="_blank">Stepik</a>, <a href="https://www.geekbrains.ru" taget="_blank">GeekBrains</a>
- - title: Foreman
+ - title: "Foreman"
    start: 2016
    end: 2019
    employer: "Patentes Talgo S.L."
-   description: Managing groups of electricians and onboard mechanics to maintain and operate passenger trains
- - title: Electrical Engineer
+   description: "Managing groups of electricians and onboard mechanics to maintain and operate passenger trains"
+ - title: "Electrical Engineer"
    start: 2013
    end: 2016
    employer: "Patentes Talgo S.L."
-   description: Electrical and electronic repair and maintenance of passenger trains
+   description: "Electrical and electronic repair and maintenance of passenger trains"
  - title: Sales Engineer
    start: 2012
    end: 2012
@@ -60,8 +60,8 @@ roles:
  - title: Comm. Engineer
    start: 2009
    end: 2011
-   employer: NewSat comm.
-   description: Worked with sattelite antennas offshore
+   employer: "NewSat comm."
+   description: "Worked with sattelite antennas offshore"
    
 #Education is required
 education:
