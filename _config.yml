@@ -57,13 +57,13 @@ roles:
    end: 2012
    employer: Electrical Engineer
    description:   King Abdullah University of Science and Technology
- - title: "Comm. Engineer"
+ - title: "Python developer"
    start: 2009
    end: 2011
    employer: none
    description: none
    
-#Education is required "NewSat comm." "Worked with sattelite antennas offshore"
+#Education is required "NewSat comm." "Worked with sattelite antennas offshore" "Comm. Engineer"
 education:
  - level: Bachelor of Science (B.Sc.)
    date: 2009
