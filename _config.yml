@@ -52,6 +52,11 @@ roles:
    end: 2012
    employer: Turkuaz Machinery
    description: Selling technical solutions
+ - title: Master of Science (M.Sc.)
+   start: 2011
+   end: 2012
+   employer: Electrical Engineer
+   description:   King Abdullah University of Science and Technology
  - title: Comm. Engineer
    start: 2009
    end: 2011
@@ -60,10 +65,6 @@ roles:
    
 #Education is required
 education:
- - level: Master of Science (M.Sc.)
-   date: 2012
-   subject: Electrical Engineering
-   school: King Abdullah University of Science and Technology
  - level: Bachelor of Science (B.Sc.)
    date: 2009
    subject: Electrical Engineering
