@@ -10,7 +10,7 @@ markdown: kramdown
 primarylinks:
  - title: GitHub
    url: https://github.com/zhenisduissekov
- - title: Stepic
+ - title: Stepik
    url: https://stepik.org/users/123054669
  - title: LeetCode
    url: https://leetcode.com/zduissekov/
@@ -35,7 +35,7 @@ roles:
  - title: "Python developer"
    start: 2019
    end: Ongoing
-   employer: none
+   employer: Baiol
    description: Studying on following web resources <a href="https://www.leetcode.com" taget="_blank">LeetCode</a>, <a href="https://www.stepik.org" taget="_blank">Stepik</a>, <a href="https://www.geekbrains.ru" taget="_blank">GeekBrains</a>
  - title: "Foreman"
    start: 2016
