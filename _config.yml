@@ -1,5 +1,5 @@
 # Site settings
-title: Zhenis Duissekov
+title: Zhenis Duissekov!
 name: Zhenis Duissekov
 
 # Build settings
@@ -101,11 +101,7 @@ courses:
 #List of interesting Github repo/projects to include - optional
 github:
  - zhenisduissekov/telegram-shell-bot
- - zhenisduissekov/saunasdb
- - zhenisduissekov/Searching_for_jobs_in_HeadHuner.kz
- - zhenisduissekov/selenium_mongo
- - zhenisduissekov/avito_search_mongo_upload_search_in_mongo
- - zhenisduissekov/avito_mongo
+
 
 #Stackoverflow flair is optional
 #stackoverflow:
